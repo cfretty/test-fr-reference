@@ -47,9 +47,9 @@ Build the site. Type `mkdocs build`
 
 For more information:
 
-* [Markdown cheat sheet :octicons-link-external-16:](https://www.markdownguide.org/cheat-sheet/)
-* [MkDocs User Guide :octicons-link-external-16:](https://www.mkdocs.org/user-guide/)
-* [Material for MkDocs Reference Guide :octicons-link-external-16:](https://squidfunk.github.io/mkdocs-material/reference/)
+* [Markdown cheat sheet ↗](https://www.markdownguide.org/cheat-sheet/)
+* [MkDocs User Guide ↗](https://www.mkdocs.org/user-guide/)
+* [Material for MkDocs Reference Guide ↗](https://squidfunk.github.io/mkdocs-material/reference/)
 
 ## Terms of use
 
