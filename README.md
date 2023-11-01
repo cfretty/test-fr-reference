@@ -3,7 +3,7 @@
 This project is a proof of concept experiment to see if docs as code can work for a particular set of technical reference material.
 This is one of a handful experiments to identify authoring tools and source content management system (SCM) for this content.
 
-**The experiment** prototype the content in the tooling, and then evaluate (score) the results against prioritized (weighted) requirements.
+:test_tube:**The experiment**:test_tube: prototype the content in the tooling, and then evaluate (score) the results against prioritized (weighted) requirements.
 
 ## Project description
 
