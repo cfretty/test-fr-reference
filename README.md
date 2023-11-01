@@ -1,13 +1,13 @@
 # POC MkDocs Technical Reference Guide
 
-This project is a proof of concept experiment to see if docs as code can work for a particular set technical reference material.
+This project is a proof of concept experiment to see if docs as code can work for a particular set of technical reference material.
 This is one of a handful experiments to identify authoring tools and source content management system (SCM) for this content.
 
 **The experiment** prototype the content in the tooling, and then evaluate (score) the results against prioritized (weighted) requirements.
 
 ## Project description
 
-This is a real draft material so I can evaluate the feasibility of using the [MkDocs :octicons-link-external-16:](http://www.mkdocs.org/) Markdown and Python static site generator and [Material for MkDocs :octicons-link-external-16:](https://squidfunk.github.io/mkdocs-material/) theme for my technical documentation.
+This is a real draft material so I can evaluate the feasibility of using the [MkDocs ↗](http://www.mkdocs.org/) Markdown and Python static site generator and [Material for MkDocs ↗](https://squidfunk.github.io/mkdocs-material/) theme for my technical documentation.
 
 With this project, I can understand if markdown and ssg meets my authoring, source code management, and deliverable generation requirements.
 
@@ -22,11 +22,15 @@ Before using POC MkDocs Technical Reference Guide, ensure you have:
 * Python
 * Git
 * Visual Studio Code (VSCode) with extensions: Python (MS), Code Spell checker, DevSkim (security analyzer), Markdown All in One, markdownlint, YAML (redhat)
-* [Material for MkDocs :octicons-link-external-16:](https://squidfunk.github.io/mkdocs-material/getting-started/) (use Python/pip)
+* [Material for MkDocs ↗](https://squidfunk.github.io/mkdocs-material/getting-started/) (use Python/pip) with plugins: glightbox
 
 ## Instructions for using this project
 
-Use [Material for Makedocs Getting Started :octicons-link-external-16:](https://squidfunk.github.io/mkdocs-material/getting-started/)
+Use [Material for Makedocs Getting Started ↗](https://squidfunk.github.io/mkdocs-material/getting-started/)
+Install and configure plugins:
+
+* [Lightbox ↗](https://squidfunk.github.io/mkdocs-material/reference/images/#lightbox)
+* Others tbd
 
 Recommend using a Python virtual environment.
 
